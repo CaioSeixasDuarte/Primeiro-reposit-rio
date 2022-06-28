@@ -1,2 +1,2 @@
-# Primeiro-reposit-rio
-Primeiro repositório
+# Desafio-pratico-Git/GitHub
+Primeiro repositório Desafio prático
